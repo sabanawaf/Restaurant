@@ -1,0 +1,23 @@
+h1{
+  font-style: italic;
+  color: purple;
+  font-size: 55px;
+}
+#footer{
+  font-style: italic;
+  background-color:red;
+}
+#Navigation{
+  background-color:lightgreen;
+}
+#form{
+  background-color: lightpink;
+}
+#title{
+  background-color:#FFE4C4;
+}
+
+  a:link{color:purple;}
+a:visited{color:green;}
+a:hover{font-weight: bold;}
+a:active{text-decoration: none;}
